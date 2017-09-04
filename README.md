@@ -1,2 +1,2 @@
-# HackerNews-FB-Bot-Python
-This is a python facebook chatbot. Using to make video on development with messenger
+# Super Simple Flask Server Instance
+This is a super simple flask server set up for my own uses. 
